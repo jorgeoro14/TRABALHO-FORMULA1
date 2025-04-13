@@ -1,0 +1,150 @@
+body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;   
+}
+.Cabecalho{
+    background-color: red;
+    width: 100%;
+    height: 80px;
+    text-align: center;
+    color: white;
+    align-items: center;
+    position: fixed;
+    font-family: monospace;
+    font-size: 20;
+}
+.divSistemaPontos{
+     background-color: rgb(0, 0, 0);
+    width:450px;
+    height: auto;
+    position: static;
+    margin-top: 85px;
+    margin-left: 5px;
+}
+.divEquipes{
+    background-color: rgb(0, 0, 0);
+    width:600px;
+    height: auto;
+    position: static;
+    margin-top: 85px;
+    margin-left: 5px;
+}
+#table{
+    background-color: rgb(0, 0, 0);
+    color: black;
+    border-style: double;
+    border-width: 1px;
+}
+#SistemaDePontos{
+    background-color: white;
+    color: black;
+    border-style: double;
+}
+
+.divPilotos{
+    background-color: rgb(0, 0, 0);
+    width:370px;
+    height: auto;
+    position: static;
+    margin-top: 85px;
+    margin-right: 5px;
+}
+.par1{
+    width: auto;
+    height: auto;
+}
+th{
+    border-style: double;
+}
+td{
+    border-style: groove;
+}
+.divE1{
+    background-color: rgb(0, 0, 0);
+    position: static;
+   
+}
+.divE2{
+position:static;
+
+}
+.divE3{
+ position: static;
+ 
+}
+#E1{
+    background-color: rgb(0, 0, 0);
+    color: black;
+    border-style: double;
+    border-width: 1px;
+    margin-right: 10;
+}
+#E2{
+    background-color: rgb(0, 0, 0);
+    color: black;
+    border-style: double;
+    border-width: 1px;
+    margin-right: 10;
+}
+#E3{
+    background-color: rgb(0, 0, 0);
+    color: black;
+    border-style: double;
+    border-width: 1px;
+    margin-right: 10;
+}
+#TOTAL{
+    color: white;
+    background-color: rgb(138, 1, 1);
+}
+#ponto{
+    color: blue;
+    background-color: #cdffc3;
+}
+#PONTOT{
+    color: white;
+    background-color: black;
+}
+#titlegp{
+    background-color: rgb(0, 0, 105);
+    color: white;
+}
+#l1{
+    background-color: rgb(205, 232, 255);
+}
+#l2{
+    background-color: aliceblue;
+}
+#TextoEtapasEquipes{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+#titletext{
+    font-size: 40px;
+}
+#titlePilotos-e-Equipes{
+    color:#cdffc3;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+#pilotos-e-equipes{
+    color: aliceblue;
+    font-size: 25px;
+}
+#text1{
+    color: #cdffc3;
+    font-size: 40px;
+}
+.rodape{
+    width: auto;
+    height: 200px;
+    background-color: rgb(83, 0, 0);
+    align-items: center;
+    text-align: center;
+    color: aliceblue;
+    font-size: 25px;
+}
+
